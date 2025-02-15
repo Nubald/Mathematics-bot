@@ -41,7 +41,7 @@ A comprehensive mathematics program that provides tools for basic arithmetic thr
 1. Ensure you have Python 3.7 or higher installed
 2. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/math_program.git
+   git clone https://github.com/Nubald/Mathematics-bot.git
    cd math_program
    ```
 3. Install required packages:
